@@ -5,6 +5,10 @@ This program uses C++, it reads maze files and then solves it using DFS. The res
 ## Instructions
 
 1. Open terminal
-2. Run program by typing: make
+2. Run program by typing: sh script.sh
 
 ## Demo
+
+![Maze Solver Demo](img/maze-solver-demo.gif "Maze Solver Demo")
+
+Figure 1: Maze Solver Demo
