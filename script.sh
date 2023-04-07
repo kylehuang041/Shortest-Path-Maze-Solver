@@ -1,0 +1,1 @@
+g++ maze/maze.cpp main.cpp -o prog
