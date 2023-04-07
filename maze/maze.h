@@ -16,7 +16,6 @@
 #include <fstream> // reading/writing from/to a file
 #include <sstream> // string stream used for splitting
 #include <climits> // constants with limits of fundamental integral types
-// #include <string_view>
 
 /**
  * @brief stores a char data for maze cell block and a boolean if it is
