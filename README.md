@@ -1,6 +1,6 @@
 # Shortest Path Maze Solver
 
-This program uses C++, it reads maze files and then solves it using DFS. The result shows a visual maze with the shortest path.
+This program uses C++ and is from my DSA class, it reads maze files and then solves it using DFS. The result shows a visual maze with the shortest path.
 
 ## Instructions For linux
 
