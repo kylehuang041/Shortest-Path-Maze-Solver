@@ -4,7 +4,7 @@ This program uses C++, it reads maze files and then solves it using DFS. The res
 
 ## Instructions
 
-1. Open terminal
+1. Open terminal for Linux
 2. Run program by typing: sh script.sh
 
 ## Demo
